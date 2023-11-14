@@ -1,1 +1,1 @@
-printf project
+project print
